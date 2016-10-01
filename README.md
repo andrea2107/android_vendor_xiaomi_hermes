@@ -1,0 +1,3 @@
+# vendor_CM13
+AOSP 6.0 22.09
+HERMES
